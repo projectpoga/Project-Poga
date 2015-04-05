@@ -7,7 +7,8 @@ package com.indiarefers;
 
 /**
  *
- * @author Miracle
+ * @author Ramana
+ * This is a sample comment
  */
 public class TestClass {
     
